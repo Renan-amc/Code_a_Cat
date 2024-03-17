@@ -14,3 +14,7 @@ Ao ajustar esses parâmetros, é possível modificar o visual do gato conforme d
 Para experimentar diferentes configurações e ver o resultado visual instantâneo, basta modificar os valores das variáveis mencionadas e executar o código novamente.
 
 Esperamos que aproveite explorando as diferentes iterações deste desenho de gato no Processing!
+
+
+![Alt Text](CODE_A_CAT/GATIN.png)
+
